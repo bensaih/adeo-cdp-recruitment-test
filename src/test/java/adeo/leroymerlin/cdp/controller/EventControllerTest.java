@@ -40,7 +40,6 @@ class EventControllerTest {
 	@Mock
 	private EventService eventServiceMock;
 
-	@Autowired
 	private EventMapper eventMapper;
 
 	@Autowired
